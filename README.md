@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: jpreyes portfolio
+theme:jekyll-theme-minimal
+# jpreyes portfolio
 testing 1
